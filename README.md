@@ -1,6 +1,9 @@
 # BMG 2.0
 
-Nossa aplicação nasceu a partir da consciência de que muitos jovens iniciando sua vida financeira não conseguem ter controle sobre seus gastos. Muitas vezes por falta de motivação, mas na maioria das vezes por falta de planejamento. Através de uma interface lúdica e intuitiva, auxiliamos esses jovens a iniciar sua caminhada em direção à independência financeira com metas, dicas e criação de hábitos saudáveis. Nossa missão é preparar pessoas para um futuro de mais liberdade, menos amarras e principalmente muitas realizações. Queremos acompanhar nossos usuários do princípio ao fim, sendo parte das maiores conquistas deles, não apenas como espectadores de seu sucesso, mas agentes dele.
+Nosso protótipo partiu de uma solução para uma pessoa que quer aprender sobre investimentos. Assim foi criado o BMG 2.0 onde terá recomendações de investimentos, deixando o usuário mais seguro com suas ideias para aplicar, informações para poder entender o necessário para começar a investir, terá também informações relevantes sobre o assunto, de como levar a sério na hora de investir e não ter uma ilusão de que a cada dinheiro investido sempre sairá ganhando.
+Cards sobre a situação de seus investimentos, o quanto poderá ganhar, também cards de incentivos para não desistir ou desanimar em momentos difíceis.
+As metas serão uma coisa nova, pois o usuário poderá criar uma de acordo com suas necessidades, se ele não puder guardar dinheiro, com as metas, terá uma visão mais controlada de seus gastos.
+A interface do aplicativo será de entendimento rápido, prático e dinâmico para que as pessoas se interessem e queiram entrar nesse mundo complexo mas não complicado dos investimentos.
 
 ## 📗 Considerações
 
