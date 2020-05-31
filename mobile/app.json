@@ -1,0 +1,16 @@
+{
+  "name": "AndySolution",
+  "displayName": "AndySolution",
+  "icon": "./assets/logo-g.png",
+  "splash": {
+    "image": "./assets/man.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#FFF"
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  }
+}
